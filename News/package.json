@@ -153,7 +153,7 @@
     "static-extend": "^0.1.2",
     "source-map-url": "^0.4.0",
     "stream-shift": "^1.0.0",
-    "terser": "^3.17.0",
+    "terser": "^4.8.1",
     "string_decoder": "^1.1.1",
     "tapable": "^1.1.1",
     "timers-browserify": "^2.0.10",
